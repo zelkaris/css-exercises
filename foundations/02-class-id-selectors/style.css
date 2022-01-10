@@ -1,0 +1,21 @@
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd {
+    background: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd.third {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
